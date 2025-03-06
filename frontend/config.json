@@ -1,0 +1,12 @@
+    {
+        "GEOSERVER_USERNAME": "admin",
+        "GEOSERVER_PASSWORD": "geoserver",
+        "GEOSERVER_SERVICE_URL": "http://13.202.93.120:8080/geoserver/",
+        "POSTGIS_PARAMS": {
+            "DBNAME": "geoserver",
+            "USER": "postgres",
+            "PASSWORD": "postgres",
+            "HOST": "ec2-13-202-93-120.ap-south-1.compute.amazonaws.com",
+            "PORT": "5432"
+        }
+    }
